@@ -1,0 +1,12 @@
+c:\users\1\documents\visual studio 2013\Projects\StringsCompare\StringsCompare\bin\Debug\StringsCompare.exe.config
+C:\Users\1\documents\visual studio 2013\Projects\StringsCompare\StringsCompare\bin\Debug\StringsCompare.exe
+C:\Users\1\documents\visual studio 2013\Projects\StringsCompare\StringsCompare\bin\Debug\StringsCompare.pdb
+C:\Users\1\documents\visual studio 2013\Projects\StringsCompare\StringsCompare\obj\Debug\StringsCompare.csprojResolveAssemblyReference.cache
+C:\Users\1\documents\visual studio 2013\Projects\StringsCompare\StringsCompare\obj\Debug\StringsCompare.exe
+C:\Users\1\documents\visual studio 2013\Projects\StringsCompare\StringsCompare\obj\Debug\StringsCompare.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\BinaryStringsComparator\StringsCompare\StringsCompare\bin\Debug\StringsCompare.exe.config
+C:\Users\1\Documents\Visual Studio 2013\Projects\BinaryStringsComparator\StringsCompare\StringsCompare\obj\Debug\StringsCompare.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\BinaryStringsComparator\StringsCompare\StringsCompare\obj\Debug\StringsCompare.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\BinaryStringsComparator\StringsCompare\StringsCompare\bin\Debug\StringsCompare.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\BinaryStringsComparator\StringsCompare\StringsCompare\bin\Debug\StringsCompare.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\BinaryStringsComparator\StringsCompare\StringsCompare\obj\Debug\StringsCompare.csprojResolveAssemblyReference.cache
